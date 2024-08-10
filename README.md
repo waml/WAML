@@ -1,2 +1,2 @@
 # WAML
-WAML (Web Automation Markup Language) is a markup language for automating robotic processes on the web.
+WAML (Web API Markup Language) is a markup language for creating Web APIs and/or automating robotic processes.
